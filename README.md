@@ -3,9 +3,10 @@
 ### Veja 📷
 
 ![gif do projeto](https://github.com/caiov13/memory-game/blob/main/github/gif_game.gif)
-![imagem inicial do projeto](https://github.com/caiov13/memory-game/tree/main/github)
-![imagem final do projeto](https://github.com/caiov13/memory-game/tree/main/github)
+![imagem inicial do projeto](https://github.com/caiov13/memory-game/blob/main/github/memory-initial.PNG)
+![imagem final do projeto](https://github.com/caiov13/memory-game/blob/main/github/memory-restart.PNG)
 
 ### Tecnologias 🚀
 * ReactJs
+* HTML
 * CSS
