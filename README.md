@@ -7,6 +7,6 @@
 ![imagem final do projeto](https://github.com/caiov13/memory-game/blob/main/github/memory-restart.PNG)
 
 ### Tecnologias 🚀
-* ReactJs
+* ReactJS
 * HTML
 * CSS
